@@ -1,7 +1,7 @@
 # Light Client Working Group Devs Meeting 6
 ### Meeting Date/Time: Friday, May 28th, 2021 15:00 UTC
 ### Meeting Duration: 1 hour
-### [Agenda](https://github.com/zcash/lcwg/issues/6)
+### [Agenda](https://github.com/zcash/lcwg/issues/7)
 ### [Video of the meeting](not-recorded)
 ### Moderator: Kevin Gorham
 ### Notes: Adi
