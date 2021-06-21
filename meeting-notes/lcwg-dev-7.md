@@ -31,5 +31,5 @@
 ## Next Meeting
 Light Client Working Group Devs Meeting #8, June 25th, 2021 @ 1500 UTC
 
-[Next Meeting Agenda](https://github.com/zcash/lcwg/issues/8)
+[Next Meeting Agenda](https://github.com/zcash/lcwg/issues/12)
 
