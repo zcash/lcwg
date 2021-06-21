@@ -15,9 +15,9 @@
 
 
 # 1. Nighthawk Update
-## a. Focus on fixing bug fixes in prod apps.
-## b. Introduce new iOS developers to build the project locally and fix good first issues.
-## c. Get roadmap/designs from ECC Mobile SDK to plan out feature priority on Nighthawk.
+- a. Focus on fixing bug fixes in prod apps.
+- b. Introduce new iOS developers to build the project locally and fix good first issues.
+- c. Get roadmap/designs from ECC Mobile SDK to plan out feature priority on Nighthawk.
 
 # 2. Q/A
 - Q: BlazeSync support for ECC Mobile SDKs
@@ -41,5 +41,5 @@
 ## Next Meeting
 Light Client Working Group Devs Meeting #5, May 21st, 2021 @ 1500 UTC
 
-[Agenda](https://github.com/zcash/lcwg/issues/6)
+[Next Meeting Agenda](https://github.com/zcash/lcwg/issues/6)
 
