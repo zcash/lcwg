@@ -22,7 +22,9 @@
 ## Roadmap for next ECC Sprint
 Android has Automatic Auto-Shielding in place and is being tested internally on ECC. Some devs from this calls were added to the beta testing
 Explained what the A2S workflow does
+
 iOS will be releasing tag 115 that includes the new shielding phases that are on par with Android ones and added fetching phase to depict the retrieval of UTXOs
+
 On the A2S workflow it will be implemented on the following week and released internally.
 
 Request from @nighthawk24: make A2S threshold `1 ZEC + fee amount` so the UI is clearer
