@@ -19,7 +19,7 @@ Anyone is welcome to add an item to the agenda as long as it follows these guide
 ### Who Can Attend
 Light client developers, Protocol developers, and lightwalletd developers are invited to attend the meetings. This is not a meeting for passive participants. The primary guidelines are:
 #### Attendance Guidelines
-- Attendees must adhere to the Zcash [Code of Conduct](https://github.com/zcash/zcash/blob/master/code_of_conduct.md)
+- Attendees must adhere to the Zcash [Code of Conduct](https://electriccoin.co/code-of-conduct/)
 - You have been actively pushing PRs to wallet projects
   - For at least the last 6 months
   - OR at least 10 PRs total to Zcash wallet projects
