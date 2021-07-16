@@ -16,6 +16,7 @@
 ## Attendees
 @pacu, @gmale, Wil Moore III,  Eljio Prifti, Adi(Nighthawk),  Mandeep Bhalothia, Piyush Sharma, Vamsi Krishna, 
 
+## sync improvements
 
 Kevin: update on sync enhancements throughout the ecosystem. ECC Wallet team is pairing up with Core engineers to discuss how to bring NU5/Halo to librustzcash and also discuss the possibility on improving syncing and bringing it on par with latest developments.
 
@@ -25,6 +26,34 @@ Vamsi: z_import_ivk on Zcashd and facing some performance problems. Zcashd takes
 
 Kevin: Syncing improvemnts are in line with that feature. The SDKs already work with viewing keys. We should have this functionalities in mind when we do those improvements.
 
+Vamsi is using the ZecPages viewing key to test which has a high number of shielded transactions
+
+Kevin: we should focus on making scanning pretty low so that we can take it as an irrelevant thing and improve the user experience.
+
+## Collect and submit feedback for ARTI
+
+Kevin: This is delegated to Nathan and Steven from ECC.
+
+Adi: there was a meeting about requirement on ARTI for Zebrad and mobile was brought up, although it will be prioritized around mid-next-year. A high level idea / requirement touch base call with the LCWG or part of getting proposals for bringing ARTI to mobile. 
+
+Kevin: can we do the normal iOS/Android networking things without needed to bring a massive library, needing elevated priviledges, etc?
+
+General: bring specific questions/concerns/requests to the table through a document to the ZOMG.
+
+
+## iOS / Android 
+
+Kudos to Nighthawk on responsible disclosure of the vulnerability found on iOS and how it was handled procedure-wise
+
+Kevin: what could be put in place to improve the review process? ECC is evaluating software improvement process alternatives, one of them is bringing extra developers to specifically audit/review PRs
+
+Eljo: Offered some hours of availability to that effort.
+
+Pacu: we have a Request for Improvements/Suggestions for the next Wallet App development in terms of code structure, architecture, etc. 
+
+Adi: Nighthawk can chime in with ideas on that front.
+
+Kevin: Autoshieling in mobile is almost to a point we don't think it sucks
 
 
 
