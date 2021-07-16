@@ -61,7 +61,11 @@ Pacu: once the autoshielding work is called done, we will address Nighthawk's re
 
 kevin: nice to have feature often get low priority in our queue, so calls to action to contributor that can tackle those. 
 
+Adi: requested tasks for Mandeep since he has some bandwidth over the next to weeks. 
 
+Kevin: shared UA wireframes for the new app.
+
+Adi: review request for USD conversion on lightwalletd (note: Zenhub had closed)
 
 ---------------------------------------
 
