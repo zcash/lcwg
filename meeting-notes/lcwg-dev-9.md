@@ -55,6 +55,12 @@ Adi: Nighthawk can chime in with ideas on that front.
 
 Kevin: Autoshieling in mobile is almost to a point we don't think it sucks
 
+Adi: Nighthawk is adopting an automated translation service called lingo so he's going to work on android's string files so they work out with that service. Also offered an extra slot on his translation pack to make PRs to the android projects.
+
+Pacu: once the autoshielding work is called done, we will address Nighthawk's request to add Biometric authentication to Backup Seed screen and fix other related bugs.
+
+kevin: nice to have feature often get low priority in our queue, so calls to action to contributor that can tackle those. 
+
 
 
 ---------------------------------------
