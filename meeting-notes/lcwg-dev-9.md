@@ -14,7 +14,7 @@
 # 1. General Notes
 -------------------------------------------
 ## Attendees
-@pacu
+@pacu, @gmale, Wil Moore III,  Eljio Prifti, Adi(Nighthawk),  Mandeep Bhalothia, Piyush Sharma, Vamsi Krishna, 
 
 
 ---------------------------------------
