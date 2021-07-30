@@ -18,7 +18,7 @@
 ---------------------------------------
 
 ## Next Meeting
-Light Client Working Group Devs Meeting #11, July 13th, 2021 @ 1500 UTC
+Light Client Working Group Devs Meeting #11, August 13th, 2021 @ 1500 UTC
 
 [Next Meeting Agenda](https://github.com/zcash/lcwg/issues/TKTKTK)
 
