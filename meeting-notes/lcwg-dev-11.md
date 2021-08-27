@@ -1,7 +1,7 @@
-# Light Client Working Group Devs Meeting TKTKTK
+# Light Client Working Group Devs Meeting 11
 ### Meeting Date/Time: Friday, August 13th, 2021 15:00 UTC
 ### Meeting Duration: 45 minutes
-### [Agenda](https://github.com/zcash/lcwg/issues/TKTKTK)
+### [Agenda](https://github.com/zcash/lcwg/issues/19)
 - ECC updates
 - Faster sync algorithms. Will this be part of Orchard?
 - Timeline for NU5 support in SDK
