@@ -23,14 +23,12 @@
  - 
 * Nighthawk updates
  - Reviewing and maintaining Google Play and App Store crashes. 
- - Adding Zcash URI Support for QR codes
+ - Adding Zcash URI Support for QR codes & Deep Links on Android.
  - Wallet Sweeping functionality to allow paper wallet handouts. 
   - Pacu suggested checking out liberated payments docs: https://github.com/zcash/zips/pull/420/files
   - Pacu's suggestions: Wallet Eject Button to move funds in case of emergency (keys tampered, privacy leak, security issue, etc)
 
-
-
-- Android updates:
+- Wallet updates:
   - Will Secant wallet use the same key storage scheme? 
    - We really don't know. probably SecOps will advice adopting the latest and greatest available.
   - Will the new wallet be installed on top of the old one? 
@@ -40,7 +38,7 @@
 
 ## Attendees
 * Steven, and @pacu
-* Adi and Mandeep from NightHawk
+* Adi and Mandeep from Nighthawk
 
 ## Next Meeting
 Light Client Working Group Devs Meeting #Friday, September 10th, 2021 @ 1500 UTC
