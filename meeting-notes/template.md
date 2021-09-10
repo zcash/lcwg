@@ -3,7 +3,7 @@
 ### Meeting Duration: 45 minutes
 ### [Agenda](https://github.com/zcash/lcwg/issues/TKTKTK)
 ### [Video of the meeting](not-recorded)
-### Moderator: Kevin Gorham @gmale
+### Moderator: Pacu Gindre @pacu
 ### Notes: Pacu Gindre @pacu
 
 ## Decisions and Actions Made
