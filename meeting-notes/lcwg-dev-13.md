@@ -1,9 +1,9 @@
-# Light Client Working Group Devs Meeting TKTKTK
+# Light Client Working Group Devs Meeting 13
 ### Meeting Date/Time: Friday, September 10th, 2021 15:00 UTC
 ### Meeting Duration: 45 minutes
 ### [Agenda](https://github.com/zcash/lcwg/issues/23)
 ### [Video of the meeting](not-recorded)
-### Moderator: Kevin Gorham @gmale
+### Moderator: Pacu Gindre @pacu
 ### Notes: Pacu Gindre @pacu
 
 ## Decisions and Actions Made
