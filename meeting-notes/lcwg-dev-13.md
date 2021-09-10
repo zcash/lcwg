@@ -13,14 +13,15 @@
 
 # 1. General Notes
 -------------------------------------------
-* TKTKTK
-* TKTKTK
-* TKTKTK
+* General ECC Progress 
+* NightHawk Updates
+  - MoonPay Integration underway for Android
+  - Localization effors progressing
+*  Discussion on possible PIR enhancements
 
 ## Attendees
-* TKTKTK
-* TKTKTK
-* TKTKTK
+* @Pacu
+* Adi NightHawk
 
 ## Next Meeting
 Light Client Working Group Devs Meeting #TKTKTK, TKTKTK ##th, 2021 @ 1500 UTC
