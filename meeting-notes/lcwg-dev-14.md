@@ -1,7 +1,7 @@
 # Light Client Working Group Devs Meeting 13
-### Meeting Date/Time: Friday, September 10th, 2021 15:00 UTC
+### Meeting Date/Time: Friday, September 24th, 2021 15:00 UTC
 ### Meeting Duration: 45 minutes
-### [Agenda](https://github.com/zcash/lcwg/issues/24)
+### [Agenda](https://github.com/zcash/lcwg/issues/25)
 ### [Video of the meeting](not-recorded)
 ### Moderator: Pacu Gindre @pacu
 ### Notes: Pacu Gindre @pacu
@@ -15,15 +15,14 @@
 -------------------------------------------
 * General ECC Progress 
 * NightHawk Updates
-  - MoonPay Integration underway for Android
-  - Localization effors progressing
-*  Discussion on possible PIR enhancements
+  - Adi won't be able to attend these meetings until End of October
+
 
 ## Attendees
 * @Pacu
 * Adi NightHawk
 
 ## Next Meeting
-Light Client Working Group Devs Meeting Friday, September 24th, 2021 @ 1500 UTC
+Light Client Working Group Devs Meeting Friday, October 22th, 2021 @ 1500 UTC
 
-[Next Meeting Agenda](https://github.com/zcash/lcwg/issues/25)
+[Next Meeting Agenda](https://github.com/zcash/lcwg/issues/TKTKTK)
