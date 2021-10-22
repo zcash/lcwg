@@ -37,6 +37,7 @@ The meetings are independent of any organization. However, Kevin Gorham is an em
 
  №  | Date                             | Agenda        |Notes          | Recording            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
+13 | September 10th, 2021 15:00 UTC| [agenda](https://github.com/zcash/lcwg/issues/24) | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-13.md) | not recorded | 
 12 | Friday 27 Aug 2021, 15:00 UTC| [agenda](https://github.com/zcash/lcwg/issues/22) | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-12.md) | not recorded | 
 11 | Friday 13 Aug 2021, 15:00 UTC| [agenda](https://github.com/zcash/lcwg/issues/21) | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-11.md) | not recorded | 
 10 | Friday 30 Jul 2021, 15:00 UTC| [agenda](https://github.com/zcash/lcwg/issues/18) | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-10.md) | not recorded | 
