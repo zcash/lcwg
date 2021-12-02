@@ -1,5 +1,5 @@
 # Light Client Working Group Devs Meeting 16
-### Meeting Date/Time: Friday, October 22th, 2021 15:00 UTC
+### Meeting Date/Time: Friday, November 19th, 2021 15:00 UTC
 ### Meeting Duration: 45 minutes
 ### [Agenda](https://github.com/zcash/lcwg/issues/26)
 ### [Video of the meeting](not-recorded)
