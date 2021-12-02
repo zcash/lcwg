@@ -27,6 +27,6 @@
 * Dmytrii Gonchar
 * Steven Smith
 ## Next Meeting
-Light Client Working Group Devs Meeting Friday, November 19th, 2021 @ 1500 UTC
+Light Client Working Group Devs Meeting Friday, December 3rd, 2021 @ 1500 UTC
 
 [Next Meeting Agenda](https://github.com/zcash/lcwg/issues/28)
