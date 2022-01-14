@@ -14,9 +14,11 @@
 # 1. General Notes
 -------------------------------------------
 * General ECC Progress 
-  - 
+  - Overview of changes to expect with NU5 upgrade
+  - Discuss supporting both Sapling and Orchard pools through Unified Address
 * Nighthawk Updates
-  Reviewing and Grooming redesigned screens
+  - Reviewing and Grooming redesigned screens
+  - Upgrade Nighthawk Android & iOS with updated Zcash SDKs
 ## Attendees
 * @Pacu
 * Adi Nighthawk
