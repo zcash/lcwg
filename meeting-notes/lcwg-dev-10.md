@@ -17,7 +17,7 @@
 - @pacu
 - @gmale
 - Eljo
-- Adi (NightHawk)
+- Adi (Nighthawk)
 - Mandeep 
 ---------------------------------------
 

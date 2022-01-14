@@ -15,12 +15,11 @@
 -------------------------------------------
 * General ECC Progress 
   - General update timeline for the next weeks.
-* NightHawk Updates
+* Nighthawk Updates
   - Kicked off Design Sprint. 
   - Researching Use cases for migrations from sapling to Orchard
   - What addresses need to be shown on an NU5 compatible wallet?
   - UI/UX around NU5
-  - 
 ## Attendees
 * @Pacu
 * Adi Nighthawk
