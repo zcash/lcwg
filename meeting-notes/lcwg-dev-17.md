@@ -14,13 +14,16 @@
 # 1. General Notes
 -------------------------------------------
 * General ECC Progress 
-  - 
-* NightHawk Updates
-  - 
+  - Overview of changes to expect with NU5 upgrade
+  - Discuss supporting both Sapling and Orchard pools through Unified Address
+* Nighthawk Updates
+  - Reviewing and Grooming redesigned screens
+  - Upgrade Nighthawk Android & iOS with updated Zcash SDKs
 ## Attendees
 * @Pacu
 * Adi Nighthawk
-* 
+* Str4d
+* Kris
 ## Next Meeting
 Light Client Working Group Devs Meeting Friday, December 17th, 2021 @ 1500 UTC
 

@@ -14,7 +14,7 @@
 # 1. General Notes
 -------------------------------------------
 * General ECC Progress 
-* NightHawk Updates
+* Nighthawk Updates
   - Adi won't be able to attend these meetings until End of October
 
 

@@ -14,7 +14,7 @@
 # 1. General Notes
 -------------------------------------------
 * General ECC Progress 
-* NightHawk Updates
+* Nighthawk Updates
   - MoonPay Integration underway for Android
   - Localization effors progressing
 *  Discussion on possible PIR enhancements

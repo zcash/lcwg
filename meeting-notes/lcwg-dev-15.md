@@ -17,11 +17,10 @@
   - SDK development perspectives for NU5
   - ECC Reference Wallet changes and freeze plan
   - Questions on Zcash Block Explorer for testnet
-* NightHawk Updates
+* Nighthawk Updates
   - About to launch MoonPay Integration on android
   - Timelines on NU5 integration for SDKs and Wallets
   - Will work Fdroid and Gradle issues
-
 
 ## Attendees
 * @Pacu
