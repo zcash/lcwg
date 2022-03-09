@@ -12,5 +12,14 @@
 
 # 1. General Notes
 - Change meeting day to Wednesdays [Approved]
-Other points:
-- To Be Filled by Adi
+- Discuss Testnet reset and what it entails for light clients
+- SDK update to be expected - android sdk concurrency fixes around underlying coroutines and SQLite.
+- Discuss Zcash specific UniFFI idea:
+ 1. Performance hit is negligible compared to the convenience
+ 2. Address parsing
+ 3. Signing 
+ 4. Key derivation on rust
+ 5. Review outputs in different languages.
+## Attendees
+* Adi Nighthawk
+* @Pacu

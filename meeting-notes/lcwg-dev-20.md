@@ -13,5 +13,10 @@
 
 
 # 1. General Notes
-- This meeting was done "Async" since @Pacu had connectivity problems. 
-- Adi requested that the SDK allow clients to define the number of confirmations to use at the moment of sending funds, getting a balance, etc. He filed a github issue under the android repo to be discussed the implications of such a change there
+* Nighthawk Updates
+  - Nighthawk Wallet Design updated following feedback from the devs. The following modules have been redesigned: Backup/Restore, Biometric/Pin, Home Screen, Wallet History, Settings, Send Zcash flow.
+  - Design implementation will begin next.
+  - Zcash SDK: Review and test Beta 20 of for Android and ZcashLightClientKit Beta 6 for the next version of Nighthawk Wallet.
+## Attendees
+* Adi Nighthawk
+* Dmytrii Nighthawk
