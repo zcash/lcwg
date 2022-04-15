@@ -16,7 +16,7 @@
 * Nighthawk Updates
   - General wallet ecosystem updates.
   - Get help to resolve blockers when running Xcode on M1 chip.
-  - ZcashClientKit pair review & debugging session.
+  - ZcashLightClientKit pair review & debugging session.
 ## Attendees
 * Adi Nighthawk
 * @Pacu
