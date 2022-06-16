@@ -1,4 +1,4 @@
-# Light Client Working Group Devs Meeting 25
+# Light Client Working Group Devs Meeting 26
 ### Meeting Date/Time: Wednesday, May 4th, 2021 15:00 UTC
 ### Meeting Duration: 45 minutes
 ### [Video of the meeting](not-recorded)
