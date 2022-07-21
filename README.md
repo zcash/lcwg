@@ -29,14 +29,17 @@ Light client developers, Protocol developers, and lightwalletd developers are in
 Generally every light client is represented. Sometimes a non-developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to @gmale.
 
 ### Who Manages the Meetings
-Kevin Gorham facilitates and records the meetings. 
+Pacu & Adi facilitates and records the meetings. 
 
-The meetings are independent of any organization. However, Kevin Gorham is an employee of the Electric Coin Co. Livestreaming instruction for the meetings can be found [here](https://docs.google.com/document/d/1dF_Drs56ErV6wJgFmbzpdN-cINshKCsB61D92NS2JDg/edit). 
+The meetings are independent of any organization. However, Pacu & Carter are employees of the Electric Coin Co. Meeting notes can be found [here](https://docs.google.com/document/d/1dF_Drs56ErV6wJgFmbzpdN-cINshKCsB61D92NS2JDg/edit). 
 
 ### Previous Meetings
 
  №  | Date                             | Agenda        |Notes          | Recording            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
+31 | July 13th, 2022 15:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-31.md) | not recorded | 
+30 | June 29th, 2022 15:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-30.md) | not recorded | 
+29 | June 15th, 2022 15:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-29.md) | not recorded | 
 28 | June 1st, 2022 15:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-28.md) | not recorded | 
 27 | May 18th, 2022 15:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-27.md) | not recorded | 
 26 | May 4th, 2022 15:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-26.md) | not recorded | 
@@ -66,4 +69,3 @@ The meetings are independent of any organization. However, Kevin Gorham is an em
 2 | Friday 30 Apr 2021, 15:00 UTC| [agenda](https://github.com/zcash/lcwg/issues/3) | no notes | not recorded | 
 1 | Friday 23 Apr 2021, 15:00 UTC| [agenda](https://github.com/zcash/lcwg/issues/2) | no notes | not recorded | 
 0 | Friday 05 Mar 2021, 20:00 UTC| [agenda](https://github.com/zcash/lcwg/issues/1) | no notes | not recorded | 
-
