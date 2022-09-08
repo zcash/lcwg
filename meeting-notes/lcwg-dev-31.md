@@ -16,7 +16,7 @@
 * General
   - Discuss block syncing issues surrounding lightwalletd
 * Android SDK
-  - ECC updated reference wallet to use Android SDk v1.7.0
+  - ECC updated reference wallet to use Android SDK v1.7.0
   - Android v1.8.0 will be a larger change - refactoring around wallet birthday and initialization is expected
   - Android SDK update will move all database files to a no-backup directory to increase privacy & security of user's transaction history
   - Android SDK's future plan is for getting atomic wallet birthday on wallet creation
