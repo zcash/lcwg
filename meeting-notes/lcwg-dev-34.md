@@ -1,6 +1,6 @@
 # Light Client Working Group Devs Meeting 34
 ### Meeting Date/Time: Thursday, October 6th, 2021 17:00 UTC
-### Meeting Duration: 45 minutes
+### Meeting Duration: 30 minutes
 ### [Video of the meeting](not-recorded)
 ### Moderator: Pacu Gindre @pacu
 ### Attendees: Adi @nighthawk24, Carter @ccjernigan
