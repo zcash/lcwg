@@ -37,6 +37,8 @@ The meetings are independent of any organization. However, Pacu & Carter are emp
 
  №  | Date                             | Agenda        |Notes          | Recording            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
+33 | August 26th, 2022 16:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-33.md) | not recorded | 
+32 | July 27th, 2022 15:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-32.md) | not recorded | 
 31 | July 13th, 2022 15:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-31.md) | not recorded | 
 30 | June 29th, 2022 15:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-30.md) | not recorded | 
 29 | June 15th, 2022 15:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-29.md) | not recorded | 
