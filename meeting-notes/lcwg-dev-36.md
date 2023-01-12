@@ -27,6 +27,6 @@
   - Basic changes to go out in the next release, advanced ones to follow
 
 ## Attendees
-* Adi @nighthawk24 Nighthawk
+* @nighthawk24 Nighthawk
 * @Pacu ECC
 * @ccjernigan ECC
