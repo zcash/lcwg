@@ -3,7 +3,7 @@
 ### Meeting Duration: 30 minutes
 ### [Video of the meeting](not-recorded)
 ### Moderator: Pacu Gindre @pacu
-### Attendees: Adi @nighthawk24, Carter @ccjernigan, Kris @nuttycom, Gygaxin, Bobloblaw, Jack Gavigan, Daniel Wolande
+### Attendees: Adi @nighthawk24, Carter @ccjernigan, Kris @nuttycom, Gygaxis, Bobloblaw, Jack Gavigan, Daniel Wolande
 ### Notes: Adi
 
 ## Decisions and Actions Made

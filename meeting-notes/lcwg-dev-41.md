@@ -30,8 +30,8 @@
   - Dropped support for cocoa pods on v0.18.0
 * Lightwalletd
   - Shardtree state PR crate is in review.
-  - Stack of changes: we can begin refactoring zcashd - add note commitment tree position to the combat block format, then changes to zcashd to compute root of a subtree every 16-20 commitments (stored in cached db) - needs change of C++ implementation of incremental Merkel tree to the frontier type change, then a full history of 2^16 subtree roots can be made available to lightwalletd.
-  - Approx. timeline - next week zcashd part work, then hopefully done by end of Jan, then release zcashd release for end of service height - hoping to get the zcashd changes in place.
+  - Stack of changes: we can begin refactoring zcashd - add note commitment tree position to the compact block format, then changes to zcashd to compute root of a subtree every 16-20 commitments (stored in cached db) - needs change of C++ implementation of incremental Merkle tree to the frontier type change, then a full history of 2^16 subtree roots can be made available to lightwalletd.
+  - Approx. timeline - next week zcashd part work, then hopefully done by end of Jan, then release zcashd for end of service height - hoping to get the zcashd changes in place.
   - Documentation of spinning up lightwalletd is not up to date, this might be causing issues with lightwalletd public infrastructure when re-orgs trigger cache clearing - maybe volume is being dropped when container restarts - reconstruction of cache may be causing the delay. Check the configuration of pointing the lightwalletd infra.
   - On client apps, check the hash of the blocks and not only block height for depending on the longest chain for accurate data.
 * Nighthawk Wallet
