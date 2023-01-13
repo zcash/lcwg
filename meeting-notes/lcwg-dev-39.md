@@ -42,7 +42,7 @@ https://github.com/zcash/secant-android-wallet/tree/main/.github/ISSUE_TEMPLATE
 * @Pacu ECC
 * @ccjernigan ECC
 * Kris @nuttycom
-* Gygaxin Zingo Labs
+* Gygaxis Zingo Labs
 * Bobloblaw Zingo Labs
 * Jack Gavigan ZF
 * Daniel Wolande ZF
