@@ -23,7 +23,7 @@
 https://github.com/zcash/secant-android-wallet/blob/main/.github/pull_request_template.md
 https://github.com/zcash/secant-android-wallet/tree/main/.github/ISSUE_TEMPLATE
 
- - ZIP 317 support is now available from librustzcash, and has at least been made available to the IOS SDK (I believe the Android side is in progress.) zcashd support is blocked on the completion of https://github.com/zcash/zcash/pull/6217
+ - ZIP 317 support is now available from librustzcash, and has at least been made available to the IOS SDK (I believe the Android side is in progress.) but not enabled due to lack of testing. Zcashd support is blocked on the completion of https://github.com/zcash/zcash/pull/6217
  - It isn't enabled yet on mobile, because we have UX concerns that aren't addressed yet. specifically we need to help clients convey estimated fees to users. The code to turn it on is present, but it is toggled off and not exposed in the public API.
  - Transaction proposal state - inputs are selected and outputs are assigned, fees are combined. Fixed point to reach where you add an input and there isn’t enough balance for fees.
  - Mobile SDK function does both computation plus signing at once. Ideally, the fees for the tx. should be shown the user at the transaction confirmation time. Background DAGSync may need to be paused when the user is in the Send transaction flow to handle concurrency issues.
