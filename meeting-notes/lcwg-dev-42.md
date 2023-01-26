@@ -35,7 +35,6 @@
 ## Attendees
 * @Pacu ECC
 * @ccjernigan ECC
-* Kris @nuttycom ECC
 * Nick Takacs ECC
 * Nation Wilcox ECC
 * @nighthawk24 Nighthawk
