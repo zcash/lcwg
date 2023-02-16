@@ -1,5 +1,5 @@
 # Light Client Working Group Devs Meeting 29
-### Meeting Date/Time: Wednesday, June 15th, 2021 15:00 UTC
+### Meeting Date/Time: Wednesday, June 15th, 2022 15:00 UTC
 ### Meeting Duration: 45 minutes
 ### [Video of the meeting](not-recorded)
 ### Moderator: Pacu Gindre @pacu

@@ -26,7 +26,7 @@ Light client developers, Protocol developers, and lightwalletd developers are in
 - No anonymous attendees
   - These are working meetings and members are most comfortable when they can put a face to a name
  
-Generally every light client is represented. Sometimes a non-developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to @gmale.
+Generally every light client is represented. Sometimes a non-developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to @pacu.
 
 ### Who Manages the Meetings
 Pacu & Adi facilitates and records the meetings. 
@@ -37,8 +37,9 @@ The meetings are independent of any organization. However, Pacu & Carter are emp
 
  №  | Date                             | Agenda        |Notes          | Recording            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
-42 | January 26th, 2022 16:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-42.md) | not recorded | 
-41 | January 12th, 2022 16:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-41.md) | not recorded | 
+43 | February 9th, 2023 16:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-43.md) | not recorded | 
+42 | January 26th, 2023 16:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-42.md) | not recorded | 
+41 | January 12th, 2023 16:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-41.md) | not recorded | 
 40 | December 15th, 2022 16:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-40.md) | not recorded | 
 39 | December 1st, 2022 16:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-39.md) | not recorded | 
 38 | November 17th, 2022 16:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-38.md) | not recorded | 

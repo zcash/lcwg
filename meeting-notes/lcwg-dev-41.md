@@ -1,5 +1,5 @@
 # Light Client Working Group Devs Meeting 41
-### Meeting Date/Time: Thursday, January 12th, 2021 17:00 UTC
+### Meeting Date/Time: Thursday, January 12th, 2023 17:00 UTC
 ### Meeting Duration: 30 minutes
 ### [Video of the meeting](not-recorded)
 ### Moderator: Pacu Gindre @pacu
