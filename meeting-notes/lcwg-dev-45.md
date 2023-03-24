@@ -3,8 +3,8 @@
 ### Meeting Duration: 60 minutes
 ### [Video of the meeting](not-recorded)
 ### Moderator: Pacu Gindre @pacu
-### Attendees: Mandeep Bhalotia NightHawk Apps, Carter @ccjernigan, Nick Takacs, Matthew Watt @tw0po1nt, Za Wilcox Zingo Labs, John ZF
-### Notes: Adi
+### Attendees: Mandeep Bhalotia @Mandeepbhalothia, Carter @ccjernigan, Nick Takacs, Matthew Watt @tw0po1nt, Za Wilcox Zingo Labs, John ZF
+### Notes: Pacu
 
 # 1. General Notes
 * General
@@ -18,9 +18,9 @@
    - will be on crates.io
 
 ## Attendees: 
-- Mandeep Bhalotia
+- Mandeep Bhalotia Nighthawk Apps
 - Carter Jernigan
-- Matthew Watt
+- Matthew Watt Nighthawk Apps
 - Za Wilcox
 - John ZF
 - Pacu
