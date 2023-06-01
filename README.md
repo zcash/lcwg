@@ -31,7 +31,7 @@ Generally every light client is represented. Sometimes a non-developer with part
 ### Who Manages the Meetings
 Pacu & Adi facilitates and records the meetings. 
 
-The meetings are independent of any organization. However, Pacu & Carter are employees of the Electric Coin Co. Meeting notes can be found [here](https://docs.google.com/document/d/1dF_Drs56ErV6wJgFmbzpdN-cINshKCsB61D92NS2JDg/edit). 
+The meetings are independent of any organization. Meeting notes can be found [here](https://docs.google.com/document/d/1dF_Drs56ErV6wJgFmbzpdN-cINshKCsB61D92NS2JDg/edit). 
 
 ### Previous Meetings
 
