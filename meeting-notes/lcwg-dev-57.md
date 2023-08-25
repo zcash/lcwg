@@ -17,7 +17,7 @@ being unmined and expired.
 Pacu: What actions that can be taken to avoid workarounds and get the concrete solutions out?
 
 Kris: 
-- Review and get void out for the changes of transaction proposal here: https://github.com/zcash/librustzcash/pull/891
+- Review and get feedback for the changes of transaction proposal here: https://github.com/zcash/librustzcash/pull/891
 - Create Swift and Android implementations of ZIP-317 so that apps can parse the proposals made by librustzcash
 - Enable the ZIP-317 boolean flag on the SDK blindly without a transaction proposal. 
 

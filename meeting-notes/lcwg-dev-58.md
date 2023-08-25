@@ -1,14 +1,14 @@
 # Light Client Working Group Devs Meeting 58
 ### Meeting Date/Time: Thursday, Aug 24th, 2023 17:00 UTC
-### Meeting Duration: 40git minutes
+### Meeting Duration: 40 minutes
 ### Moderator: @pacu - ZWCD, @decentralistdan - ZF
-### Attendees: @nuttycom (ECC), John (ZF), Mandeep Bhalothia (NH), Conrado (ZF), Aditya 
+### Attendees: @nuttycom (ECC), John (ZF), Mandeep Bhalothia (NH), Conrado (ZF), Aditya (NH), Zooko (ECC)
 ### Notes: @pacu
 
 ## General Notes
 
 ### NH Updates 
-Matt couldn't make it but sent update through signal:
+Matt couldn't make it but sent an update through signal:
 
 Lukas and him were working on Updating the FFI version NH was pointing to. Changes that Lukas suggested are working, but Matt will still need one of our testers who was running into problems to test the PR and verify in his end, since he was unable to repro the issue himself. 
 
@@ -25,7 +25,7 @@ Pacu is working in darksidewalletd benchmarks for Zingo that will be extended an
 
 He requested suggestions on improving regtest performance because the testcase generation was taking too much time and had to move on to a different approach.
 
-For this Kris pointed out [this code](https://github.com/zcash/zcash/blob/master/qa/rpc-tests/test_framework/util.py) that could help set up cached regtest states and then use the resulting wallet directory to generate the darksidewalletd datasets.
+For this Kris pointed out [this code](https://github.com/zcash/zcash/blob/master/qa/rpc-tests/test_framework/util.py) that could help set up cached regtest states and then use the resulting wallet directory to generate the darksidewalletd datasets. And [this example as well](zcash/zcash@ff02805#diff-4aa4f998e880e58d5a14ed12c81eb7664478385b4ea185cab9dec0cd84044d63R40-R143)
 
 In terms of organizing LCWG Pacu and Decentralistdan have been working to get the Zoom call venue ready for today's call. Additionally Pacu is reaching out to all development teams that had previously participated on LCWG to invite them over and get feedback and their preferred times in an attempt to accomodate everyone better. 
 
@@ -53,8 +53,8 @@ https://github.com/zcash/ZcashLightClientKit/pull/1191
 
 
 ###  Action Items from previous meeting
-- ~Enable ZIP-317 booleans on the sdk and do small releases~. This has been deprioritized by ECC to focus on Sbs. Minimum fee of 10000 zat may or may not be included in next release.
+- ~Enable ZIP-317 booleans on the sdk and do small releases~. This has been deprioritized by ECC to focus on Sbs. ~Minimum fee of 10000 zat may or may not be included in next release~. Nuttycom confirms that the ECC team discussed this after the call and verified that the next version of each of the SDKs will ship with a 10,000 ZAT fixed fee.
 
 
 ### Action Items from this meeting
-- @decentralistdan representing ZF and @pacu as ZWCD will get together to shape up the ZIP-317 outreach. Any technical follow-ups needed with ECC's core team will be channeled through Zooko.
+- @decentralistdan representing ZF and @pacu as ZWCD will get together to shape up the ZIP-317 outreach. Any technical follow-ups needed that involve ECC's Core Team will be channeled through Zooko.
