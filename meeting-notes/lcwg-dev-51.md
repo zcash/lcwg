@@ -3,7 +3,7 @@
 ### Meeting Duration: 45 minutes
 ### [Video of the meeting](not-recorded)
 ### Moderator: Nick ECC
-### Attendees: Dan (ZF), Mandeep (Nighthawk), John (ZF), Matt (Nighthawk), Adi (Nighthawk), Kriss (ECC)
+### Attendees: Dan (ZF), Mandeep (Nighthawk), John (ZF), Matt (Nighthawk), Adi (Nighthawk), Kris (ECC)
 ### Notes: Adi
 
 # 1. General Notes
