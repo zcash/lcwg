@@ -3,8 +3,8 @@
 ### Meeting Duration: 36 minutes
 ### [Video of the meeting](not-recorded)
 ### Moderator: Pacu Gindre @pacu
-### Attendees: Lux (Zingo), Mandeep (Nighthawk), John (ZF), Matt (Nighthawk), Luca Campobasso (Eiger)
-### Notes: Pacu & Adi
+### Attendees: Lux (Zingo), Mandeep (Nighthawk), Adi (Nighthawk), John (ZF), Matt (Nighthawk), Luca Campobasso (Eiger)
+### Notes: Adi
 
 # 1. General Notes
 * ECC Updates:
@@ -39,7 +39,8 @@
 
 ## Attendees
 * Lux (Zingo)
-* Mandeep (Nighthawk), 
+* Mandeep (Nighthawk)
+* Adi (Nighthawk)
 * John (ZF)
 * Matt (Nighthawk)
 * Luca Campobasso (Eiger)
