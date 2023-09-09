@@ -32,7 +32,9 @@ Doing final testing. Branch: `feature/DAG-Sync`
 Str4d: Zcash FFI framework on iOS is broken on `main` due to miscommunication
 causing a PR being merged incorrectly.
 
-Equivalent PRs for Android are there on a PR.
+Equivalent PRs for Android are on https://github.com/zcash/zcash-android-wallet-sdk/tree/fast-spendability
+
+
 
 ### NH Updates
 
