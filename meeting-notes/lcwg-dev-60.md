@@ -44,9 +44,9 @@ Matt: waiting for SDK updates and working on NH's app feature.
 
 ### ZWCD Updates
 - SFoE and first milestones are completed. Str4d has 200k block datasets for zcashd
-that might be useful for wallet testing. These datasets will produce wallets with 200k notes
-received and 200k note spends to sync. There's a blocking element which is that they are not
-HD Seed accounts so there might be some work to be done to actually use them 
+  that might be useful for wallet testing. These datasets will produce wallets with 200k notes
+  received and 200k note spends to sync. There's a blocking element which is that they are not
+  HD Seed accounts so there might be some work to be done to actually use them 
 - Reported Regtest issues on Zcashd repo to document issues either for fixing or
   for Zebra development of Regtest feature.
 - Idea of creating newer AdvancedReOrgTests datasets on Regtest which will require
