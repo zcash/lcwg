@@ -30,7 +30,7 @@ Kris: on track with wallet SDK Sbs release candidate tomorrow (Friday 8th).
 Doing final testing. Branch: `feature/DAG-Sync`
 
 Str4d: Zcash FFI framework on iOS is broken on `main` due to miscommunication
-causing a PR being merged incorrectly.
+causing a PR being merged incorrectly. However, at this point `feature/DAG-sync` has all of the relevant changes and should be where all future changes prior to the SDK release appear.
 
 Equivalent PRs for Android are on https://github.com/zcash/zcash-android-wallet-sdk/tree/fast-spendability
 
