@@ -50,7 +50,7 @@ Matt: waiting for SDK updates and working on NH's app feature.
 - Reported Regtest issues on Zcashd repo to document issues either for fixing or
   for Zebra development of Regtest feature.
 - Idea of creating newer AdvancedReOrgTests datasets on Regtest which will require
-SDKs to support Regtest (Feature request open as well)
+  SDKs to support Regtest (Feature request open as well)
 - Pacu will be Out of Office from 14th to 28th of September. Dan or Adi could fill
   in for him in note taking.
 
