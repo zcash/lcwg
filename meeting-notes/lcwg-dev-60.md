@@ -52,7 +52,7 @@ HD Seed accounts so there might be some work to be done to actually use them
 - Idea of creating newer AdvancedReOrgTests datasets on Regtest which will require
 SDKs to support Regtest (Feature request open as well)
 - Pacu will be Out of Office from 14th to 28th of September. Dan or Adi could fill
-in for him in note taking.
+  in for him in note taking.
 
 
 ### Chainsafe Updates
