@@ -48,7 +48,7 @@ that might be useful for wallet testing. These datasets will produce wallets wit
 received and 200k note spends to sync. There's a blocking element which is that they are not
 HD Seed accounts so there might be some work to be done to actually use them 
 - Reported Regtest issues on Zcashd repo to document issues either for fixing or
-for Zebra development of Regtest feature.
+  for Zebra development of Regtest feature.
 - Idea of creating newer AdvancedReOrgTests datasets on Regtest which will require
 SDKs to support Regtest (Feature request open as well)
 - Pacu will be Out of Office from 14th to 28th of September. Dan or Adi could fill
