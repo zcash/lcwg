@@ -27,12 +27,14 @@ development with requirements, feedback, etc.
 ### ECC Update
 
 Kris: on track with wallet SDK Sbs release candidate tomorrow (Friday 8th).
-Doing final testing. Branch: `feature/DAG-Sync`
+Doing final testing. Branch:  https://github.com/zcash/ZcashLightClientKit/tree/feature/DAG-sync
 
 Str4d: Zcash FFI framework on iOS is broken on `main` due to miscommunication
-causing a PR being merged incorrectly.
+causing a PR being merged incorrectly. However, at this point `feature/DAG-sync` has all of the relevant changes and should be where all future changes prior to the SDK release appear.
 
-Equivalent PRs for Android are there on a PR.
+Equivalent PRs for Android are on https://github.com/zcash/zcash-android-wallet-sdk/tree/fast-spendability
+
+
 
 ### NH Updates
 
@@ -42,15 +44,15 @@ Matt: waiting for SDK updates and working on NH's app feature.
 
 ### ZWCD Updates
 - SFoE and first milestones are completed. Str4d has 200k block datasets for zcashd
-that might be useful for wallet testing. These datasets will produce wallets with 200k notes
-received and 200k note spends to sync. There's a blocking element which is that they are not
-HD Seed accounts so there might be some work to be done to actually use them 
+  that might be useful for wallet testing. These datasets will produce wallets with 200k notes
+  received and 200k note spends to sync. There's a blocking element which is that they are not
+  HD Seed accounts so there might be some work to be done to actually use them 
 - Reported Regtest issues on Zcashd repo to document issues either for fixing or
-for Zebra development of Regtest feature.
+  for Zebra development of Regtest feature.
 - Idea of creating newer AdvancedReOrgTests datasets on Regtest which will require
-SDKs to support Regtest (Feature request open as well)
+  SDKs to support Regtest (Feature request open as well)
 - Pacu will be Out of Office from 14th to 28th of September. Dan or Adi could fill
-in for him in note taking.
+  in for him in note taking.
 
 
 ### Chainsafe Updates
