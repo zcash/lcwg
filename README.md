@@ -29,7 +29,7 @@ Light client developers, Protocol developers, and lightwalletd developers are in
 Generally every light client is represented. Sometimes a non-developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to @pacu.
 
 ### Who Manages the Meetings
-Pacu & Adi facilitates and records the meetings. 
+Pacu & Decentralistdan facilitates and records the meetings. 
 
 The meetings are independent of any organization. Meeting notes can be found [here](https://docs.google.com/document/d/1dF_Drs56ErV6wJgFmbzpdN-cINshKCsB61D92NS2JDg/edit). 
 
@@ -37,6 +37,8 @@ The meetings are independent of any organization. Meeting notes can be found [he
 
  №  | Date                             | Agenda        |Notes          | Recording            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
+62 | October 5th, 2023 17:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-62.md) | not recorded |
+61 | September 21st, 2023 17:00 UTC| [agenda] | notes N/A | not recorded |
 60 | September 7th, 2023 17:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-60.md) | not recorded |
 59 | August 31st, 2023 17:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-59.md) | not recorded |
 58 | August 23rd, 2023 17:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-58.md) | not recorded |
