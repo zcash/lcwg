@@ -29,9 +29,8 @@ Light client developers, Protocol developers, and lightwalletd developers are in
 Generally every light client is represented. Sometimes a non-developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to @pacu.
 
 ### Who Manages the Meetings
-Pacu & Decentralistdan facilitates and records the meetings. 
-
-The meetings are independent of any organization. Meeting notes can be found [here](https://docs.google.com/document/d/1dF_Drs56ErV6wJgFmbzpdN-cINshKCsB61D92NS2JDg/edit). 
+- @pacu as ZWCD takes notes and facilitates 
+- @decentralistdan facilitates and provides conference call venue on behalf of ZF
 
 ### Previous Meetings
 
