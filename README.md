@@ -36,6 +36,7 @@ Generally every light client is represented. Sometimes a non-developer with part
 
  №  | Date                             | Agenda        |Notes          | Recording            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
+65 | November 16th, 2023 17:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-65.md) | not recorded |
 64 | November 2nd, 2023 17:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-64.md) | not recorded |
 63 | October 19th, 2023 17:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-63.md) | not recorded |
 62 | October 5th, 2023 17:00 UTC| [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-62.md) | not recorded |
