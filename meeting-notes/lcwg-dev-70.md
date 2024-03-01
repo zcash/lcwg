@@ -1,6 +1,6 @@
-# Light Client Working Group Devs Meeting 69
+# Light Client Working Group Devs Meeting 70
 ### Meeting Date/Time: Thursday, February 8th, 2024, 2024 17:00 UTC
-### Meeting Duration: 80
+### Meeting Duration: 80 minutes
 ### Moderator: @pacu - ZWCD, @decentralistdan - ZF
 ### Attendees:  Za (Zingo), Conrado (ZF), John (ZF), Pili (ZF), Kris (ECC), Fluidvanadium (Zingo), Andrew Arnott (nerdbank), Jason McGee (ZCG), Daira-Emma Hopwood (ECC), Str4d (ECC)
 
