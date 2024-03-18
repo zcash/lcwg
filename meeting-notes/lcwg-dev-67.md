@@ -1,4 +1,4 @@
-# Light Client Working Group Devs Meeting 678
+# Light Client Working Group Devs Meeting 67
 ### Meeting Date/Time: Thursday, December 14th, 2023 17:00 UTC
 ### Meeting Duration: 40 minutes
 ### Moderator: @pacu - ZWCD, @decentralistdan - ZF
