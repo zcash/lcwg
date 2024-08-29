@@ -29,13 +29,14 @@ Light client developers, Protocol developers, and lightwalletd developers are in
 Generally every light client is represented. Sometimes a non-developer with particular expertise on a topic is invited on to discuss a specific agenda item. If you feel you would contribute to the meetings by your attendance please reach out to @pacu.
 
 ### Who Manages the Meetings
-- @pacu as ZWCD takes notes and facilitates 
-- @decentralistdan facilitates and provides conference call venue on behalf of ZF
+- @pacu as Zcash Dev Rel Engineer takes notes, facilitates and manages the conference call venue
+- @decentralistdan from ECC facilitates.
 
 ### Previous Meetings
 
  №  | Date                             | Agenda        |Notes          | Recording            |
 --- | -------------------------------- | -------------- |-------------- | -------------------- |
+83| August 22nd, 2024 17:00 UTC | [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-83.md) | not recorded |
 82| August 8th, 2024 17:00 UTC | [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-82.md) | not recorded |
 81| July 25th, 2024 17:00 UTC | [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-81.md) | not recorded |
 80| June 27th, 2024 17:00 UTC | [agenda] | [notes](https://github.com/zcash/lcwg/blob/main/meeting-notes/lcwg-dev-80.md) | not recorded |
