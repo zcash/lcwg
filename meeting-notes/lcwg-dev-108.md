@@ -4,7 +4,7 @@
 
 ### Moderators: Pacu (ZecDevRel), 
 
-Atendees: Kris, Za, Larry
+Attendees: Kris, Za, Larry
 
 ## Notes:
 - Rotating t-addresses  
