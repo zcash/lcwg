@@ -1,7 +1,3 @@
-### Hello\! LCWG \#111 is tomorrow\!
-
-Where? [Jitsi Meet](https://meet.jit.si/moderated/f941f58ae8dfe97138f74e55436508f6fa0523eb5f70494b47ec31494e524980)
-
 ### Meeting Date/Time: Thursday March 5th, 2025 17:00 UTC
 
 ### Meeting Duration: 50 minutes
